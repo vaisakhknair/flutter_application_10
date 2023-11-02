@@ -1,6 +1,6 @@
-# flutter_application_10
+# TO DO APP using flutter
 
-A new Flutter project.
+This is a simple to do list app build with Flutter and Hive. It allows you to create, read, update, delete task from a local database. 
 
 ## Getting Started
 
