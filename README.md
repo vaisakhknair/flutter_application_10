@@ -2,6 +2,9 @@
 
 This is a simple to do list app build with Flutter and Hive. It allows you to create, read, update, delete task from a local database. 
 
+![4204036c-d997-4369-a338-d15ed467807e](https://github.com/vaisakhknair/flutter_application_10/assets/133746313/e0387af0-37e5-47bb-bb10-f2f936ccaffb)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
